@@ -9,6 +9,9 @@ Estabeleça critérios de forma rápida e divertida para descobrir quem será o 
 #### Para tomar uma decisão difícil de forma rápida: 
 Abra o app, aperte o botão e voilá! Um critério diferente é estabelecido! Agora basta analisar quem é o sortudo - ou nem tanto - da vez!
 
-## Baixe agora!
+## Baixe agora
 - [Baixar no Android](http://bit.do/quem-app)
 - [Baixar no iOS](http://bit.do/quem-app)
+
+### Outras informações
+- [Política de privacidade](privacy-policy.txt)
